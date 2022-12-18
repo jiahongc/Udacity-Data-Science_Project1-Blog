@@ -18,7 +18,7 @@
    - us_population.csv: population of United States from 1990 to 2019.
 
 4. How to Interact with your project
-    -Run project_1,ipynb in order. This file will contain heading and markdowns to explain each step.
+    - Run project_1,ipynb in order. This file will contain heading and markdowns to explain each step.
 
 5. Licensing, Authors, Acknowledgements, etc
     Following are the sources of the data as well as few Stackoverflow and Github answers that I found to assit on preparing and graphing the data
