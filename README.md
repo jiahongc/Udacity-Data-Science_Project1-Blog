@@ -23,22 +23,10 @@
 5. Licensing, Authors, Acknowledgements, etc
     Following are the sources of the data as well as few Stackoverflow and Github answers that I found to assit on preparing and graphing the data
 
-    <a href="https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67" target="_blank">cause_of_deaths.csv</a>
-
-    -[cause_of_deaths.csv] (https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67)
+    -[cause_of_deaths.csv](https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67)
     
-    -[cause_of_deaths.csv] (https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
+    -[cause_of_deaths.csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
-    -[us_population.csv] (https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US)
+    -[us_population.csv](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US)
 
-    -[Altair map issue] (https://github.com/altair-viz/altair/issues/2044)
-
-
-
-    - cause_of_deaths.csv: https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67
-
-    - uid.csv: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
-
-    - us_population.csv: https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US
-    
-    - Altair map: https://github.com/altair-viz/altair/issues/2044
+    -[Altair map issue](https://github.com/altair-viz/altair/issues/2044)
