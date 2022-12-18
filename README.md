@@ -9,7 +9,7 @@
     - jupyterlab
 
 2. Project Motivation
-    - This project is to understand world's death causes by different countries and area. This is to increase my understanding of the world and how overtime, are humans defeating any disease or are there anythings we can do better at
+    - This project is to understand world's death causes by different countries and area. This is to increase my understanding of the world and how overtime, are humans decreasing the deaths from disease and are there diseases that are we struggling to defeat.
 
 3. File Descriptions
    - project_1.ipynb: the main jupyter notebook that contains data cleaning, data prepartion, data modeling and graphing.
@@ -22,6 +22,16 @@
 
 5. Licensing, Authors, Acknowledgements, etc
     Following are the sources of the data as well as few Stackoverflow and Github answers that I found to assit on preparing and graphing the data
+    -[cause_of_deaths.csv](https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67)
+    
+    -[cause_of_deaths.csv] (https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
+
+    -[us_population.csv](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US)
+
+    -[Altair map issue](https://github.com/altair-viz/altair/issues/2044)
+
+
+
     - cause_of_deaths.csv: https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67
 
     - uid.csv: https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv
