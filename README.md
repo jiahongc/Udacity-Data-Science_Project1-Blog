@@ -1,15 +1,13 @@
 # Udacity-Data-Science_Project1-Blog: Understand Worldwide Cause of Death
 
-1. Installations: use pip install library name to install the following libraries
+1. Installations: use pip install library_name to install the following libraries
     - pandas: perform dataframe manipulation 
     - altair: graph maps and plots
-    - vega: 
-    - vega_dataset: import world map to graph
+    - vega, vega_dataset: import world map to graph
     - display: change jupyter display setting
-    - jupyterlab
 
 2. Project Motivation
-    - This project is to understand world's death causes by different countries and area. This is to increase my understanding of the world and how overtime, are humans decreasing the deaths from disease and are there diseases that are we struggling to defeat.
+    - This project is to understand world's death causes by different countries and area. This is to increase my understanding of the world and how overtime, if humans are decreasing the deaths from disease and discovery the diseases that are we struggling to defeat.
 
 3. File Descriptions
    - project_1.ipynb: the main jupyter notebook that contains data cleaning, data prepartion, data modeling and graphing.
@@ -25,7 +23,7 @@
 
     - [cause_of_deaths.csv](https://www.kaggle.com/datasets/e08190eb1e73a5202444cae6c11c589870142f4f630fb4182601a56c8bc09c67)
     
-    - [cause_of_deaths.csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
+    - [uid.csv](https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/UID_ISO_FIPS_LookUp_Table.csv)
 
     - [us_population.csv](https://data.worldbank.org/indicator/SP.POP.TOTL?locations=US)
 
